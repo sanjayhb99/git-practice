@@ -2,4 +2,4 @@ welcome to the git class
 Thank you!
 You're welcome
 Good evening
-Byee..
+Byee...
